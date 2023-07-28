@@ -1,0 +1,13 @@
+:root {
+    --cor-de-fundo: #1000
+}
+body {
+    background-color: var(--cor-de-fundo) ;
+}
+h1 {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  font-family: monospace;
+  font-size:500% ;
+}
